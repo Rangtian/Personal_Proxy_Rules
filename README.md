@@ -1,2 +1,2 @@
 # Personal_Proxy_Rules
-My Personal OpenClash Rules
+My personal rules for various proxy softwares.
