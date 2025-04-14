@@ -1,8 +1,6 @@
 # 直连列表
-
 # DOMAIN-SUFFIX,
 # DOMAIN-KEYWORD,
-# PROCESS-NAME,
 
 DOMAIN-SUFFIX,eu.org
 DOMAIN-SUFFIX,bing.com
